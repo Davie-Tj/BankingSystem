@@ -22,28 +22,28 @@ It demonstrates object-oriented design, password hashing, file persistence, and 
 ### Compile
 Open a terminal in the project folder and run:
 
+```bash
 g++ src/*.cpp -o bin/banking.exe
+```
 or Use the provided batch file to compile and run
 
 
 ## 📁 Project Structure
 
+```plaintext
 BankSystem/
 │
 ├── .gitignore
-├── BankSystem.cbp
-├── BankSystem.depend
-├── BankSystem.layout
-├── build.bat
 ├── README.md
+├── build.bat
 │
 ├── data/
 │   └── data_file.dat
 │
-├── images/                       <-- New folder for screenshots
-│   ├── CreatingNewAccout_Screen.png
+├── images/
+│   ├── CreatingNewAccount_Screen.png
 │   ├── CurrentMenu_Screen.png
-│   └── Logged_Screen.png  
+│   └── Logged_Screen.png
 │
 └── src/
     ├── BankAccount.cpp
@@ -56,7 +56,7 @@ BankSystem/
     ├── PasswordManager.cpp
     └── PasswordManager.h
 
-	
+	```
 ## 🧪 What I Learned
 Implementing a secure password hashing algorithm with salt
 
