@@ -55,8 +55,7 @@ BankSystem/
     ├── main.cpp
     ├── PasswordManager.cpp
     └── PasswordManager.h
-
-	```
+```
 ## 🧪 What I Learned
 Implementing a secure password hashing algorithm with salt
 
