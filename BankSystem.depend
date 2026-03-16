@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1769177567 source:c:\users\hloga\desktop\personal_projects\banksystem\main.cpp
+	<iostream>
+	"LibFunctions.h"
+	"BankAccount.h"
+
+1769176043 c:\users\hloga\desktop\personal_projects\banksystem\libfunctions.h
+	<iostream>
+
+1769176092 source:c:\users\hloga\desktop\personal_projects\banksystem\libfunctions.cpp
+	"libFunctions.h"
+
+1769177133 source:c:\users\hloga\desktop\personal_projects\banksystem\bankaccount.cpp
+	"BankAccount.h"
+
+1769178437 c:\users\hloga\desktop\personal_projects\banksystem\bankaccount.h
+	<iostream>
+	"PasswordManager.h"
+
+1769178437 c:\users\hloga\desktop\personal_projects\banksystem\passwordmanager.h
+	<iostream>
+
+1769177496 source:c:\users\hloga\desktop\personal_projects\banksystem\passwordmanager.cpp
+	"PasswordManager.h"
+
